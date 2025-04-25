@@ -7,7 +7,8 @@
 
 ## Dependencies
 
-```http
+```
+http
 glom
 BeautifulSoup
 ```
