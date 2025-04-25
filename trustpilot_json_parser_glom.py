@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from glom import glom
 
 
-url = "https://scrape.smartproxy.com/v1/tasks?universal="
+url = "https://scrape.decodo.com/v1/tasks?universal="
 
 payload = {
     "target": "universal",
